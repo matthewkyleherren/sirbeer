@@ -1,0 +1,2 @@
+import{t as u,c as n,n as D,s}from"./format-CLNxfakE.js";function _(r,a){const t=u(r,a==null?void 0:a.in);return t.setHours(23,59,59,999),t}function c(r){return n(r,Date.now())}function y(r,a,t){const e=u(r,t==null?void 0:t.in);return isNaN(a)?n(r,NaN):(a&&e.setDate(e.getDate()+a),e)}function f(r,a,t){const[e,i]=D(t==null?void 0:t.in,r,a);return+s(e)==+s(i)}function m(r,a){return f(n(r,r),c(r))}function d(r,a,t){return y(r,-a,t)}function b(r,a){return f(n(r,r),d(c(r),1))}export{b as a,f as b,c,y as d,_ as e,m as i,d as s};
+//# sourceMappingURL=isYesterday-DbsnGQPv.js.map

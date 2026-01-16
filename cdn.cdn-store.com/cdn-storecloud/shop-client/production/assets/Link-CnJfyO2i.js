@@ -1,0 +1,2 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import{f as i,r as n,L as e}from"./chunk-DQRVZFIR-mrH3D8v7.js";import{b as m,F as f}from"./AuthenticationProvider-9RtBMSxF.js";const u=()=>{const s=m(f),{mobilePlatform:t}=i("root")||{};return s&&!t},c=n.forwardRef((s,t)=>{const o=u(),a=s.viewTransition??o;return r.jsx(e,{...s,ref:t,viewTransition:a})});c.displayName="Link";export{c as L,u};
+//# sourceMappingURL=Link-CnJfyO2i.js.map

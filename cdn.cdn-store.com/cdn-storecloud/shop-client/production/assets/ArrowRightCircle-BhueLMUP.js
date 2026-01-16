@@ -1,0 +1,2 @@
+import{j as r}from"./jsx-runtime-D_zvdyIk.js";import{I as e}from"./Icon-Vc_yr2r6.js";function s(){return r.jsx("div",{"data-testid":"arrow-right-circle",className:"flex aspect-square w-screen-margin items-center justify-center overflow-hidden rounded-radius-max bg-bg-fill-secondary","aria-hidden":"true",children:r.jsx(e,{name:"bold-right-chevron",size:"l"})})}export{s as A};
+//# sourceMappingURL=ArrowRightCircle-BhueLMUP.js.map

@@ -1,0 +1,2 @@
+import{j as s}from"./jsx-runtime-D_zvdyIk.js";import{c as a}from"./cn-yu2yf51J.js";const t=({text:l,className:i,textLines:e,inline:n=!1,placeholderClassName:c})=>{const r=()=>s.jsx("div",{className:a("animate-pulse",i),children:s.jsx("div",{className:a(n?"inline-block":"block","rounded-radius-4 bg-bg-fill-placeholder",c),children:s.jsx("span",{className:"invisible",children:l})})});return e?s.jsx(s.Fragment,{children:[...Array(e).keys()].map(o=>s.jsx(r,{},o))}):s.jsx(r,{})};export{t as P};
+//# sourceMappingURL=PlaceholderText-7te30dxx.js.map

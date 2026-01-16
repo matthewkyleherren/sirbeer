@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.drinkcollider.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.drinkcollider.com/collections/merch.atom"/>
+  <title>Collider</title>
+  <updated>2025-12-11T15:24:47+00:00</updated>
+  <author>
+    <name>Collider</name>
+  </author>
+  <entry>
+    <id>https://www.drinkcollider.com/products/15494563529078</id>
+    <published>2025-12-11T15:24:47+00:00</published>
+    <updated>2025-12-11T15:24:47+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/collider-gift-card"/>
+    <title>Collider Gift Card</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/collider-gift-card-6030747.png?v=1765485313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            30.00 - 200.00
+            <a href="https://www.drinkcollider.com/products/collider-gift-card">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gift card that is out of the world. Valid on one-time purchases and subscriptions. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15494563529078</id>
+      <title>£30.00</title>
+      <s:price currency="GBP">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15494563529078</id>
+      <title>£50.00</title>
+      <s:price currency="GBP">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15494563529078</id>
+      <title>£100.00</title>
+      <s:price currency="GBP">100.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15494563529078</id>
+      <title>£200.00</title>
+      <s:price currency="GBP">200.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.drinkcollider.com/products/15251859046774</id>
+    <published>2025-07-14T15:10:41+01:00</published>
+    <updated>2025-07-14T15:10:41+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/wormhole-tote"/>
+    <title>Wormhole Tote</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/wormhole-tote-6583233.jpg?v=1752519270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large black Collider with wormhole graphic and embroidered detailing. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15251859046774</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">20.00</s:price>
+      <s:sku>D2C-MERCH-TOTE-BLACK</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.drinkcollider.com/products/15077877842294</id>
+    <published>2025-02-28T09:27:23+00:00</published>
+    <updated>2025-02-28T09:27:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/spark-socks"/>
+    <title>Spark Socks</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/spark-socks-627098.jpg?v=1743936600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Collider Spark Socks in off-white. Made with bamboo. </p>
+<p><em>One size (6-11)</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15077877842294</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">15.00</s:price>
+      <s:sku>D2C-MERCH-SOCK-CREAM</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.drinkcollider.com/products/15077848416630</id>
+    <published>2025-02-28T09:26:41+00:00</published>
+    <updated>2025-02-28T09:26:41+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/molecule-glass"/>
+    <title>Molecule Glass</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/molecule-glass-323727.jpg?v=1743936602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            12.00 - 30.00
+            <a href="https://www.drinkcollider.com/products/molecule-glass">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drink Collider as it was intended with our limited edition 330ml Molecule Glass. </p>
+<p><em>Dishwasher safe</em></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass</s:tag>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15077848416630</id>
+      <title>1 Pack</title>
+      <s:price currency="GBP">12.00</s:price>
+      <s:sku>D2C-MERCH-GLASS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15077848416630</id>
+      <title>2 Pack</title>
+      <s:price currency="GBP">20.00</s:price>
+      <s:sku>D2C-MERCH-GLASS-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/15077848416630</id>
+      <title>4 Pack</title>
+      <s:price currency="GBP">30.00</s:price>
+      <s:sku>D2C-MERCH-GLASS-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.drinkcollider.com/products/9646124237103</id>
+    <published>2024-01-16T17:21:56+00:00</published>
+    <updated>2024-01-16T17:21:56+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/white-cap"/>
+    <title>White Cap</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/white-cap-263247.jpg?v=1743936605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Collider Cap in white with embroidered logo and brass buckle.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9646124237103</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">20.00</s:price>
+      <s:sku>D2C-MERCH-CAP-WHITE</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.drinkcollider.com/products/9626446463279</id>
+    <published>2024-01-07T14:27:46+00:00</published>
+    <updated>2024-01-07T14:27:46+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/collider-fc-away-shirt-2024"/>
+    <title>Collider FC Away Shirt 2024</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/collider-fc-away-shirt-2024-592413.jpg?v=1743936606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Collider Football Club Away Shirt for the 2024 season. In collaboration with @fullkitwnkrs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9626446463279</id>
+      <title>S</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-AWAY-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9626446463279</id>
+      <title>M</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-AWAY-M</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9626446463279</id>
+      <title>L</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-AWAY-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9626446463279</id>
+      <title>XL</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-AWAY-XL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.drinkcollider.com/products/9591797678383</id>
+    <published>2023-12-29T10:59:50+00:00</published>
+    <updated>2023-12-29T10:59:50+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.drinkcollider.com/products/home-shirt-2024"/>
+    <title>Collider FC Home Shirt 2024</title>
+    <s:type>Merch</s:type>
+    <s:vendor>Collider</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0839/6767/2623/files/collider-fc-home-shirt-2024-219393.jpg?v=1743936608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Collider<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the Collider FC Home Shirt for the 2024 season. In collaboration with @fullkitwnkrs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9591797678383</id>
+      <title>S</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-HOME-S</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9591797678383</id>
+      <title>M</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-HOME-M</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9591797678383</id>
+      <title>L</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-HOME-L</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.drinkcollider.com/products/9591797678383</id>
+      <title>XL</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>D2C-MERCH-FBSHIRT-HOME-XL</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>

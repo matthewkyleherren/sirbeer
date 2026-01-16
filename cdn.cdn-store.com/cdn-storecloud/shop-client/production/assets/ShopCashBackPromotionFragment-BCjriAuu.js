@@ -1,0 +1,10 @@
+import{d as h}from"./MoneyV2Fragment-XdlHnX2E.js";var r={kind:"Document",definitions:[{kind:"FragmentDefinition",name:{kind:"Name",value:"ShopCashBackPromotionFragment"},typeCondition:{kind:"NamedType",name:{kind:"Name",value:"ShopCashBackPromotion"}},directives:[],selectionSet:{kind:"SelectionSet",selections:[{kind:"Field",name:{kind:"Name",value:"rate"},arguments:[],directives:[]},{kind:"Field",name:{kind:"Name",value:"limit"},arguments:[],directives:[],selectionSet:{kind:"SelectionSet",selections:[{kind:"FragmentSpread",name:{kind:"Name",value:"MoneyV2Fragment"},directives:[]}]}}]}}],loc:{start:0,end:149}};r.loc.source={body:`#import "./MoneyV2Fragment.graphql"
+
+fragment ShopCashBackPromotionFragment on ShopCashBackPromotion {
+  rate
+  limit {
+    ...MoneyV2Fragment
+  }
+}
+`,name:"GraphQL request",locationOffset:{line:1,column:1}};var m={};function k(n){return n.filter(function(e){if(e.kind!=="FragmentDefinition")return!0;var i=e.name.value;return m[i]?!1:(m[i]=!0,!0)})}r.definitions=r.definitions.concat(k(h.definitions));function c(n,e){if(n.kind==="FragmentSpread")e.add(n.name.value);else if(n.kind==="VariableDefinition"){var i=n.type;i.kind==="NamedType"&&e.add(i.name.value)}n.selectionSet&&n.selectionSet.selections.forEach(function(t){c(t,e)}),n.variableDefinitions&&n.variableDefinitions.forEach(function(t){c(t,e)}),n.definitions&&n.definitions.forEach(function(t){c(t,e)})}var l={};(function(){r.definitions.forEach(function(e){if(e.name){var i=new Set;c(e,i),l[e.name.value]=i}})})();function u(n,e){for(var i=0;i<n.definitions.length;i++){var t=n.definitions[i];if(t.name&&t.name.value==e)return t}}function S(n,e){var i={kind:n.kind,definitions:[u(n,e)]};n.hasOwnProperty("loc")&&(i.loc=n.loc);var t=l[e]||new Set,s=new Set,o=new Set;for(t.forEach(function(a){o.add(a)});o.size>0;){var d=o;o=new Set,d.forEach(function(a){if(!s.has(a)){s.add(a);var f=l[a]||new Set;f.forEach(function(v){o.add(v)})}})}return s.forEach(function(a){var f=u(n,a);f&&i.definitions.push(f)}),i}S(r,"ShopCashBackPromotionFragment");export{r as d};
+//# sourceMappingURL=ShopCashBackPromotionFragment-BCjriAuu.js.map

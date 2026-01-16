@@ -1,0 +1,2 @@
+import{r as _}from"./chunk-DQRVZFIR-mrH3D8v7.js";const E=4,R=40,i=300,O=300,S=o=>{const e=_.useRef({});_.useEffect(()=>{let r;const t=()=>{r=requestAnimationFrame(()=>{o.forEach(({threshold:n,callback:a})=>{const s=window.scrollY>n?"past":"before";e.current[n]!==s&&(e.current[n]=s,a(s))})})};return window.addEventListener("scroll",t,{passive:!0}),e.current={},t(),()=>{window.removeEventListener("scroll",t),r&&cancelAnimationFrame(r)}},[o])};export{E as M,O as S,R as a,i as b,S as u};
+//# sourceMappingURL=useScrollThreshold-KDAH_vZ7.js.map
